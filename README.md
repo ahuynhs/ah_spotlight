@@ -22,9 +22,13 @@ Data Scientist with 5+ years of experience turning complex, large-scale datasets
 ## 🛠️ Technologies I'm Exploring
 
 **Languages**: Python, JavaScript, R, Julia, Go
+
 **ML/AI**: TensorFlow, PyTorch, scikit-learn, Hugging Face, OpenAI API
+
 **Data**: Pandas, NumPy, Matplotlib, Plotly, D3.js
+
 **Web**: React, Node.js, FastAPI, Streamlit
+
 **Creative**: p5.js, Three.js, Processing, generative art libraries
 
 ---
